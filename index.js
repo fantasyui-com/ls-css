@@ -23,7 +23,6 @@ function run(cssString){
 
 }
 
-
 if(setup.args[0]){
   let cssFilename = path.resolve(setup.args[0]);
   cssString = fs.readFileSync(cssFilename, { encoding: 'utf8' });
