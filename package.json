@@ -22,6 +22,6 @@
   "dependencies": {
     "commander": "^2.9.0",
     "get-stdin": "^5.0.1",
-    "list-css-classes": "^1.1.0"
+    "list-css-classes": "^1.2.0"
   }
 }
