@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/fantasyui-com/ls-css#readme",
   "dependencies": {
-    "commander": "^2.20.1",
+    "commander": "^2.20.3",
     "get-stdin": "^5.0.1",
     "list-css-classes": "^1.2.0"
   }
