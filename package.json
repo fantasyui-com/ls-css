@@ -1,6 +1,6 @@
 {
   "name": "ls-css",
-  "version": "1.20.0",
+  "version": "1.21.0",
   "description": "List information about CSS file.",
   "main": "index.js",
   "bin": {
